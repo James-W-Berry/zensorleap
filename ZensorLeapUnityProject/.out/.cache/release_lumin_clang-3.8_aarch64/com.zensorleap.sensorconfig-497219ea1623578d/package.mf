@@ -1,0 +1,296 @@
+{
+ "entries": [
+  {
+   "compression": 8,
+   "hash": "575513d2028e66f70952d7b550278a4daa2ec192",
+   "pkgpath": "Data/095890d8c9bde1a45b549a17e6e6f961",
+   "size": 5036,
+   "src": "/Users/jamber/Documents/work_projects/Hackathon/zensorleap/ZensorLeapUnityProject/Temp/StagingArea/Data/095890d8c9bde1a45b549a17e6e6f961"
+  },
+  {
+   "compression": 8,
+   "hash": "97ef67fc5572f314265601119168f01d3fc74d28",
+   "pkgpath": "Data/464a8e444d372e84186c743f74c741bd",
+   "size": 4124,
+   "src": "/Users/jamber/Documents/work_projects/Hackathon/zensorleap/ZensorLeapUnityProject/Temp/StagingArea/Data/464a8e444d372e84186c743f74c741bd"
+  },
+  {
+   "compression": 8,
+   "hash": "ec920ecb06b7e9314adfe95412628389404d5f8d",
+   "pkgpath": "Data/Managed/Metadata/global-metadata.dat",
+   "size": 2904228,
+   "src": "/Users/jamber/Documents/work_projects/Hackathon/zensorleap/ZensorLeapUnityProject/Temp/StagingArea/Data/Managed/Metadata/global-metadata.dat"
+  },
+  {
+   "compression": 8,
+   "hash": "319343dd4cebc453cfe9927f7fd65c93359150af",
+   "pkgpath": "bin/libil2cpp.so",
+   "size": 35527880,
+   "src": "/Users/jamber/Documents/work_projects/Hackathon/zensorleap/ZensorLeapUnityProject/Temp/StagingArea/Data/Native/libil2cpp.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "/Users/jamber/Desktop/james-ml-certificate/james-ml-certificate.cert"
+    },
+    "taildata": {
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "278f09556ebdcbcb3964f637b15e9e38fa6aba2d",
+   "xfrm_path": "/Users/jamber/Documents/work_projects/Hackathon/zensorleap/ZensorLeapUnityProject/.out/.cache/release_lumin_clang-3.8_aarch64/com.zensorleap.sensorconfig-497219ea1623578d/libil2cpp.so-ffc28ee1fa5fe860",
+   "xfrm_size": 35528638
+  },
+  {
+   "compression": 8,
+   "hash": "dc64ed4bee950e5ce1ab12268f627a3db179e4af",
+   "pkgpath": "bin/AudioPluginMSASpatializer.so",
+   "size": 220456,
+   "src": "/Users/jamber/Documents/work_projects/Hackathon/zensorleap/ZensorLeapUnityProject/Temp/StagingArea/Data/Plugins/AudioPluginMSASpatializer.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "/Users/jamber/Desktop/james-ml-certificate/james-ml-certificate.cert"
+    },
+    "taildata": {
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "7efcdc442517aa433c93cb79a7c883c1f36d8de9",
+   "xfrm_path": "/Users/jamber/Documents/work_projects/Hackathon/zensorleap/ZensorLeapUnityProject/.out/.cache/release_lumin_clang-3.8_aarch64/com.zensorleap.sensorconfig-497219ea1623578d/AudioPluginMSASpatializer.so-12364248cc21a518",
+   "xfrm_size": 221214
+  },
+  {
+   "compression": 8,
+   "hash": "aed32544e1ea67c511396569fcb89b586b15d839",
+   "pkgpath": "bin/UnityEngine.SpatialTracking.dll",
+   "size": 9216,
+   "src": "/Users/jamber/Documents/work_projects/Hackathon/zensorleap/ZensorLeapUnityProject/Temp/StagingArea/Data/Plugins/UnityEngine.SpatialTracking.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "715f293d231a26472ba1672c3e59f76cb0e5e364",
+   "pkgpath": "bin/UnityEngine.TestRunner.dll",
+   "size": 65536,
+   "src": "/Users/jamber/Documents/work_projects/Hackathon/zensorleap/ZensorLeapUnityProject/Temp/StagingArea/Data/Plugins/UnityEngine.TestRunner.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "d93ff7b64d92abd6dbb8419c3348ab5f56ad5ec5",
+   "pkgpath": "bin/UnityMagicLeap.so",
+   "size": 728232,
+   "src": "/Users/jamber/Documents/work_projects/Hackathon/zensorleap/ZensorLeapUnityProject/Temp/StagingArea/Data/Plugins/UnityMagicLeap.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "/Users/jamber/Desktop/james-ml-certificate/james-ml-certificate.cert"
+    },
+    "taildata": {
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "5c13e542912b6d45677a18b0fdb5c953d3750956",
+   "xfrm_path": "/Users/jamber/Documents/work_projects/Hackathon/zensorleap/ZensorLeapUnityProject/.out/.cache/release_lumin_clang-3.8_aarch64/com.zensorleap.sensorconfig-497219ea1623578d/UnityMagicLeap.so-12364248cc21a518",
+   "xfrm_size": 728990
+  },
+  {
+   "compression": 8,
+   "hash": "a765bb75be250a6992c1a46fc23a55501e369b85",
+   "pkgpath": "bin/libml_camera_plugin.so",
+   "size": 14184,
+   "src": "/Users/jamber/Documents/work_projects/Hackathon/zensorleap/ZensorLeapUnityProject/Temp/StagingArea/Data/Plugins/libml_camera_plugin.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "/Users/jamber/Desktop/james-ml-certificate/james-ml-certificate.cert"
+    },
+    "taildata": {
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "bb9af532c3aa027269e664cd106f5b761989c69a",
+   "xfrm_path": "/Users/jamber/Documents/work_projects/Hackathon/zensorleap/ZensorLeapUnityProject/.out/.cache/release_lumin_clang-3.8_aarch64/com.zensorleap.sensorconfig-497219ea1623578d/libml_camera_plugin.so-12364248cc21a518",
+   "xfrm_size": 14942
+  },
+  {
+   "compression": 8,
+   "hash": "633780c922a0dbfe032638afff9a25e3fc49219f",
+   "pkgpath": "bin/libml_mediaplayer_plugin.so",
+   "size": 38792,
+   "src": "/Users/jamber/Documents/work_projects/Hackathon/zensorleap/ZensorLeapUnityProject/Temp/StagingArea/Data/Plugins/libml_mediaplayer_plugin.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "/Users/jamber/Desktop/james-ml-certificate/james-ml-certificate.cert"
+    },
+    "taildata": {
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "3d9059fc26a3e2140d12a692ddeeb36e866a4aa2",
+   "xfrm_path": "/Users/jamber/Documents/work_projects/Hackathon/zensorleap/ZensorLeapUnityProject/.out/.cache/release_lumin_clang-3.8_aarch64/com.zensorleap.sensorconfig-497219ea1623578d/libml_mediaplayer_plugin.so-12364248cc21a518",
+   "xfrm_size": 39550
+  },
+  {
+   "compression": 8,
+   "hash": "5629c7ff5fb59ddc72778d4b9d3dbadcde480998",
+   "pkgpath": "bin/nunit.framework.dll",
+   "size": 328192,
+   "src": "/Users/jamber/Documents/work_projects/Hackathon/zensorleap/ZensorLeapUnityProject/Temp/StagingArea/Data/Plugins/nunit.framework.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "e6124da6073b916e29e013cf3ae3f58a4c5fdb0e",
+   "pkgpath": "Data/Resources/mscorlib.dll-resources.dat",
+   "size": 337563,
+   "src": "/Users/jamber/Documents/work_projects/Hackathon/zensorleap/ZensorLeapUnityProject/Temp/StagingArea/Data/Resources/mscorlib.dll-resources.dat"
+  },
+  {
+   "compression": 8,
+   "hash": "dc1423ee40a78f4701880b37e1f07bc4f3500e9d",
+   "pkgpath": "Data/Resources/unity default resources",
+   "size": 3308004,
+   "src": "/Users/jamber/Documents/work_projects/Hackathon/zensorleap/ZensorLeapUnityProject/Temp/StagingArea/Data/Resources/unity default resources"
+  },
+  {
+   "compression": 8,
+   "hash": "1c281a7abd7f0cec77eb390c3aa4d795a656335e",
+   "pkgpath": "Data/Resources/unity_builtin_extra",
+   "size": 393452,
+   "src": "/Users/jamber/Documents/work_projects/Hackathon/zensorleap/ZensorLeapUnityProject/Temp/StagingArea/Data/Resources/unity_builtin_extra"
+  },
+  {
+   "compression": 8,
+   "hash": "9bbb5e3aae616602db933abd34140e11132fccea",
+   "pkgpath": "Data/UnitySubsystems/Runtime/UnitySubsystemsManifest.json",
+   "size": 438,
+   "src": "/Users/jamber/Documents/work_projects/Hackathon/zensorleap/ZensorLeapUnityProject/Temp/StagingArea/Data/UnitySubsystems/Runtime/UnitySubsystemsManifest.json"
+  },
+  {
+   "compression": 8,
+   "hash": "5cf490c0c5a47dc73ea3ec5c7d56f93ebd16399b",
+   "pkgpath": "Data/adcae46baa3736748a69f9f489676bd7",
+   "size": 49726,
+   "src": "/Users/jamber/Documents/work_projects/Hackathon/zensorleap/ZensorLeapUnityProject/Temp/StagingArea/Data/adcae46baa3736748a69f9f489676bd7"
+  },
+  {
+   "compression": 8,
+   "hash": "e94169e04982098c15b71dea64d4bb6da942f232",
+   "pkgpath": "Data/boot.config",
+   "size": 76,
+   "src": "/Users/jamber/Documents/work_projects/Hackathon/zensorleap/ZensorLeapUnityProject/Temp/StagingArea/Data/boot.config"
+  },
+  {
+   "compression": 8,
+   "hash": "de45b1a9766640dd396963c0cb56e85db23ab883",
+   "pkgpath": "Data/globalgamemanagers",
+   "size": 37852,
+   "src": "/Users/jamber/Documents/work_projects/Hackathon/zensorleap/ZensorLeapUnityProject/Temp/StagingArea/Data/globalgamemanagers"
+  },
+  {
+   "compression": 8,
+   "hash": "7a1117e331822e42678d5212f354ff03de9fd591",
+   "pkgpath": "Data/globalgamemanagers.assets",
+   "size": 41568,
+   "src": "/Users/jamber/Documents/work_projects/Hackathon/zensorleap/ZensorLeapUnityProject/Temp/StagingArea/Data/globalgamemanagers.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "df0823361188c170af871ff187114fb62ad316fd",
+   "pkgpath": "Data/level0",
+   "size": 174404,
+   "src": "/Users/jamber/Documents/work_projects/Hackathon/zensorleap/ZensorLeapUnityProject/Temp/StagingArea/Data/level0"
+  },
+  {
+   "compression": 8,
+   "hash": "598ea8a7a9d9dfbf2fbcaf48cff2b1ddf8f51a70",
+   "pkgpath": "Data/level0.resS",
+   "size": 131232,
+   "src": "/Users/jamber/Documents/work_projects/Hackathon/zensorleap/ZensorLeapUnityProject/Temp/StagingArea/Data/level0.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "4a642ef101cc761206188cb5772e30d670982fbf",
+   "pkgpath": "Data/sharedassets0.assets",
+   "size": 1498516,
+   "src": "/Users/jamber/Documents/work_projects/Hackathon/zensorleap/ZensorLeapUnityProject/Temp/StagingArea/Data/sharedassets0.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "a825d39bc4f313b815fbf2bc0efeba7096f17b83",
+   "pkgpath": "Data/sharedassets0.assets.resS",
+   "size": 9675504,
+   "src": "/Users/jamber/Documents/work_projects/Hackathon/zensorleap/ZensorLeapUnityProject/Temp/StagingArea/Data/sharedassets0.assets.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "c42d2098b898c067d00ffa230d5df64581f0dce5",
+   "pkgpath": "Data/sharedassets0.resource",
+   "size": 41728,
+   "src": "/Users/jamber/Documents/work_projects/Hackathon/zensorleap/ZensorLeapUnityProject/Temp/StagingArea/Data/sharedassets0.resource"
+  },
+  {
+   "compression": 8,
+   "hash": "8f59c553fa65e4c62b244f94275fdf50ef6a40e8",
+   "pkgpath": "bin/Player.elf",
+   "size": 22318968,
+   "src": "/Users/jamber/Documents/work_projects/Hackathon/zensorleap/ZensorLeapUnityProject/Temp/StagingArea/Player.elf",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "/Users/jamber/Desktop/james-ml-certificate/james-ml-certificate.cert"
+    },
+    "taildata": {
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "6c83b7a7aa3dce2c2a8ac3b54ffb13b0a971220b",
+   "xfrm_path": "/Users/jamber/Documents/work_projects/Hackathon/zensorleap/ZensorLeapUnityProject/.out/.cache/release_lumin_clang-3.8_aarch64/com.zensorleap.sensorconfig-497219ea1623578d/Player.elf-cae589d7db6a0bc6",
+   "xfrm_size": 22319726
+  },
+  {
+   "compression": 8,
+   "hash": "6232f764150701f3944873f1bcebdb5120a10968",
+   "pkgpath": "manifest.xml",
+   "size": 1798,
+   "src": "/Users/jamber/Documents/work_projects/Hackathon/zensorleap/ZensorLeapUnityProject/Temp/StagingArea/manifest.xml",
+   "xfrm_flags": {
+    "manifest": {
+     "cert_hash": "708b6fa041b914936559b6afd1109609d86c5a2b",
+     "developer_id": "7374f76e-e3a8-44ae-a337-809b0d025d60"
+    }
+   },
+   "xfrm_hash": "1169526b9ab6311e5c2a01b88667d0acec0db67e",
+   "xfrm_path": "/Users/jamber/Documents/work_projects/Hackathon/zensorleap/ZensorLeapUnityProject/.out/.cache/release_lumin_clang-3.8_aarch64/com.zensorleap.sensorconfig-497219ea1623578d/manifest.xml-cae589d7db6a0bc6",
+   "xfrm_size": 1811
+  },
+  {
+   "compression": 8,
+   "hash": "5925de9f4d7b83c65d1fd7b25ced5f0bf8c27e73",
+   "pkgpath": "bin/libc++_shared.so",
+   "size": 976832,
+   "src": "/Users/jamber/MagicLeap/mlsdk/v0.19.0/lumin/stl/libc++/lib/libc++_shared.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "/Users/jamber/Desktop/james-ml-certificate/james-ml-certificate.cert"
+    },
+    "taildata": {
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "32d94f320f9d1a288cf7bd59f868b672e5bb0c28",
+   "xfrm_path": "/Users/jamber/Documents/work_projects/Hackathon/zensorleap/ZensorLeapUnityProject/.out/.cache/release_lumin_clang-3.8_aarch64/com.zensorleap.sensorconfig-497219ea1623578d/libc++_shared.so-e671fbcd95a21084",
+   "xfrm_size": 977590
+  }
+ ],
+ "pkgflags": {
+  "signed": {
+   "cert": "/Users/jamber/Desktop/james-ml-certificate/james-ml-certificate.cert"
+  },
+  "taildata": {
+   "devcert": "/Users/jamber/Desktop/james-ml-certificate/james-ml-certificate.cert",
+   "sbox": "USER",
+   "version": 3
+  }
+ }
+}

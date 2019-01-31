@@ -2,7 +2,7 @@
 
 
 USES = \
-	C:\Users\Paul\Documents\Hackathon\zensorleap\ZensorLeapUnityProject\Temp/StagingArea\assets \
+	/Users/jamber/Documents/work_projects/Hackathon/zensorleap/ZensorLeapUnityProject/Temp/StagingArea/assets \
 
 
 ######### DO NOT EDIT ABOVE #########
