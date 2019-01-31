@@ -1,0 +1,275 @@
+{
+ "entries": [
+  {
+   "compression": 8,
+   "hash": "98fb78e9a31a670d1c1218b5f36a21a5a64bf982",
+   "pkgpath": "Data/095890d8c9bde1a45b549a17e6e6f961",
+   "size": 5036,
+   "src": "C:/Users/Paul/Documents/Hackathon/zensorleap/ZensorLeapUnityProject/Temp/StagingArea/Data/095890d8c9bde1a45b549a17e6e6f961"
+  },
+  {
+   "compression": 8,
+   "hash": "6149af40502f9537f0eb61eaa2a9c5a999c8a533",
+   "pkgpath": "Data/Managed/Metadata/global-metadata.dat",
+   "size": 3004852,
+   "src": "C:/Users/Paul/Documents/Hackathon/zensorleap/ZensorLeapUnityProject/Temp/StagingArea/Data/Managed/Metadata/global-metadata.dat"
+  },
+  {
+   "compression": 8,
+   "hash": "c4f20ba364d4457ae9ee6fd2f191460c36da7fdd",
+   "pkgpath": "bin/libil2cpp.so",
+   "size": 37177184,
+   "src": "C:/Users/Paul/Documents/Hackathon/zensorleap/ZensorLeapUnityProject/Temp/StagingArea/Data/Native/libil2cpp.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\Paul\\MagicLeap\\privatekey\\nuccertificate.cert"
+    },
+    "taildata": {
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "816bca2f1a939544199626fe2ecdf33ce34e4ba7",
+   "xfrm_path": "C:/Users/Paul/Documents/Hackathon/zensorleap/ZensorLeapUnityProject/.out/.cache/release_lumin_clang-3.8_aarch64/com.zensorleap.sensorconfig-8c92288133476a48\\libil2cpp.so-cb16da8517d6e406",
+   "xfrm_size": 37177942
+  },
+  {
+   "compression": 8,
+   "hash": "dc64ed4bee950e5ce1ab12268f627a3db179e4af",
+   "pkgpath": "bin/AudioPluginMSASpatializer.so",
+   "size": 220456,
+   "src": "C:/Users/Paul/Documents/Hackathon/zensorleap/ZensorLeapUnityProject/Temp/StagingArea/Data/Plugins/AudioPluginMSASpatializer.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\Paul\\MagicLeap\\privatekey\\nuccertificate.cert"
+    },
+    "taildata": {
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "ad16e36c7fca8b02b994009b7e0580c2307ca1e6",
+   "xfrm_path": "C:/Users/Paul/Documents/Hackathon/zensorleap/ZensorLeapUnityProject/.out/.cache/release_lumin_clang-3.8_aarch64/com.zensorleap.sensorconfig-8c92288133476a48\\AudioPluginMSASpatializer.so-ecda3072ffd97e3c",
+   "xfrm_size": 221214
+  },
+  {
+   "compression": 8,
+   "hash": "aed32544e1ea67c511396569fcb89b586b15d839",
+   "pkgpath": "bin/UnityEngine.SpatialTracking.dll",
+   "size": 9216,
+   "src": "C:/Users/Paul/Documents/Hackathon/zensorleap/ZensorLeapUnityProject/Temp/StagingArea/Data/Plugins/UnityEngine.SpatialTracking.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "715f293d231a26472ba1672c3e59f76cb0e5e364",
+   "pkgpath": "bin/UnityEngine.TestRunner.dll",
+   "size": 65536,
+   "src": "C:/Users/Paul/Documents/Hackathon/zensorleap/ZensorLeapUnityProject/Temp/StagingArea/Data/Plugins/UnityEngine.TestRunner.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "d93ff7b64d92abd6dbb8419c3348ab5f56ad5ec5",
+   "pkgpath": "bin/UnityMagicLeap.so",
+   "size": 728232,
+   "src": "C:/Users/Paul/Documents/Hackathon/zensorleap/ZensorLeapUnityProject/Temp/StagingArea/Data/Plugins/UnityMagicLeap.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\Paul\\MagicLeap\\privatekey\\nuccertificate.cert"
+    },
+    "taildata": {
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "b8a752c6fa6170cf7f873eeef22bcbb0e0c315a8",
+   "xfrm_path": "C:/Users/Paul/Documents/Hackathon/zensorleap/ZensorLeapUnityProject/.out/.cache/release_lumin_clang-3.8_aarch64/com.zensorleap.sensorconfig-8c92288133476a48\\UnityMagicLeap.so-ecda3072ffd97e3c",
+   "xfrm_size": 728990
+  },
+  {
+   "compression": 8,
+   "hash": "a765bb75be250a6992c1a46fc23a55501e369b85",
+   "pkgpath": "bin/libml_camera_plugin.so",
+   "size": 14184,
+   "src": "C:/Users/Paul/Documents/Hackathon/zensorleap/ZensorLeapUnityProject/Temp/StagingArea/Data/Plugins/libml_camera_plugin.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\Paul\\MagicLeap\\privatekey\\nuccertificate.cert"
+    },
+    "taildata": {
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "9f912740661b1f2231cd1745c7df317b6483ed44",
+   "xfrm_path": "C:/Users/Paul/Documents/Hackathon/zensorleap/ZensorLeapUnityProject/.out/.cache/release_lumin_clang-3.8_aarch64/com.zensorleap.sensorconfig-8c92288133476a48\\libml_camera_plugin.so-ecda3072ffd97e3c",
+   "xfrm_size": 14942
+  },
+  {
+   "compression": 8,
+   "hash": "633780c922a0dbfe032638afff9a25e3fc49219f",
+   "pkgpath": "bin/libml_mediaplayer_plugin.so",
+   "size": 38792,
+   "src": "C:/Users/Paul/Documents/Hackathon/zensorleap/ZensorLeapUnityProject/Temp/StagingArea/Data/Plugins/libml_mediaplayer_plugin.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\Paul\\MagicLeap\\privatekey\\nuccertificate.cert"
+    },
+    "taildata": {
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "f98dc5e09aec25de9a94e8d90f450c36ee7e9209",
+   "xfrm_path": "C:/Users/Paul/Documents/Hackathon/zensorleap/ZensorLeapUnityProject/.out/.cache/release_lumin_clang-3.8_aarch64/com.zensorleap.sensorconfig-8c92288133476a48\\libml_mediaplayer_plugin.so-ecda3072ffd97e3c",
+   "xfrm_size": 39550
+  },
+  {
+   "compression": 8,
+   "hash": "5629c7ff5fb59ddc72778d4b9d3dbadcde480998",
+   "pkgpath": "bin/nunit.framework.dll",
+   "size": 328192,
+   "src": "C:/Users/Paul/Documents/Hackathon/zensorleap/ZensorLeapUnityProject/Temp/StagingArea/Data/Plugins/nunit.framework.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "e6124da6073b916e29e013cf3ae3f58a4c5fdb0e",
+   "pkgpath": "Data/Resources/mscorlib.dll-resources.dat",
+   "size": 337563,
+   "src": "C:/Users/Paul/Documents/Hackathon/zensorleap/ZensorLeapUnityProject/Temp/StagingArea/Data/Resources/mscorlib.dll-resources.dat"
+  },
+  {
+   "compression": 8,
+   "hash": "dc1423ee40a78f4701880b37e1f07bc4f3500e9d",
+   "pkgpath": "Data/Resources/unity default resources",
+   "size": 3308004,
+   "src": "C:/Users/Paul/Documents/Hackathon/zensorleap/ZensorLeapUnityProject/Temp/StagingArea/Data/Resources/unity default resources"
+  },
+  {
+   "compression": 8,
+   "hash": "1c281a7abd7f0cec77eb390c3aa4d795a656335e",
+   "pkgpath": "Data/Resources/unity_builtin_extra",
+   "size": 393452,
+   "src": "C:/Users/Paul/Documents/Hackathon/zensorleap/ZensorLeapUnityProject/Temp/StagingArea/Data/Resources/unity_builtin_extra"
+  },
+  {
+   "compression": 8,
+   "hash": "9bbb5e3aae616602db933abd34140e11132fccea",
+   "pkgpath": "Data/UnitySubsystems/Runtime/UnitySubsystemsManifest.json",
+   "size": 438,
+   "src": "C:/Users/Paul/Documents/Hackathon/zensorleap/ZensorLeapUnityProject/Temp/StagingArea/Data/UnitySubsystems/Runtime/UnitySubsystemsManifest.json"
+  },
+  {
+   "compression": 8,
+   "hash": "e94169e04982098c15b71dea64d4bb6da942f232",
+   "pkgpath": "Data/boot.config",
+   "size": 76,
+   "src": "C:/Users/Paul/Documents/Hackathon/zensorleap/ZensorLeapUnityProject/Temp/StagingArea/Data/boot.config"
+  },
+  {
+   "compression": 8,
+   "hash": "bb52a508b6f108127b70a6b7bb760006699dbcfc",
+   "pkgpath": "Data/globalgamemanagers",
+   "size": 35484,
+   "src": "C:/Users/Paul/Documents/Hackathon/zensorleap/ZensorLeapUnityProject/Temp/StagingArea/Data/globalgamemanagers"
+  },
+  {
+   "compression": 8,
+   "hash": "cea83d1c664878806b9e8d4a1409da08a3866220",
+   "pkgpath": "Data/globalgamemanagers.assets",
+   "size": 36168,
+   "src": "C:/Users/Paul/Documents/Hackathon/zensorleap/ZensorLeapUnityProject/Temp/StagingArea/Data/globalgamemanagers.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "75725b54b95befbb2bfcd6ec150b60e12769f91c",
+   "pkgpath": "Data/level0",
+   "size": 26388,
+   "src": "C:/Users/Paul/Documents/Hackathon/zensorleap/ZensorLeapUnityProject/Temp/StagingArea/Data/level0"
+  },
+  {
+   "compression": 8,
+   "hash": "70c952c0dcf4850461834b39dc2c11b256080dec",
+   "pkgpath": "Data/level0.resS",
+   "size": 131232,
+   "src": "C:/Users/Paul/Documents/Hackathon/zensorleap/ZensorLeapUnityProject/Temp/StagingArea/Data/level0.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "9348329298538ff8280b67a531614e18a047657a",
+   "pkgpath": "Data/sharedassets0.assets",
+   "size": 6255908,
+   "src": "C:/Users/Paul/Documents/Hackathon/zensorleap/ZensorLeapUnityProject/Temp/StagingArea/Data/sharedassets0.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "65a49da18555136b9b8126cbab7c60b006abe468",
+   "pkgpath": "Data/sharedassets0.assets.resS",
+   "size": 17938688,
+   "src": "C:/Users/Paul/Documents/Hackathon/zensorleap/ZensorLeapUnityProject/Temp/StagingArea/Data/sharedassets0.assets.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "8f59c553fa65e4c62b244f94275fdf50ef6a40e8",
+   "pkgpath": "bin/Player.elf",
+   "size": 22318968,
+   "src": "C:/Users/Paul/Documents/Hackathon/zensorleap/ZensorLeapUnityProject/Temp/StagingArea/Player.elf",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\Paul\\MagicLeap\\privatekey\\nuccertificate.cert"
+    },
+    "taildata": {
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "a0a2d31150c68315c22d4528b1f89f370672531e",
+   "xfrm_path": "C:/Users/Paul/Documents/Hackathon/zensorleap/ZensorLeapUnityProject/.out/.cache/release_lumin_clang-3.8_aarch64/com.zensorleap.sensorconfig-8c92288133476a48\\Player.elf-ac31ada6db17abc9",
+   "xfrm_size": 22319726
+  },
+  {
+   "compression": 8,
+   "hash": "5925de9f4d7b83c65d1fd7b25ced5f0bf8c27e73",
+   "pkgpath": "bin/libc++_shared.so",
+   "size": 976832,
+   "src": "C:/Users/Paul/MagicLeap/mlsdk/v0.19.0/lumin/stl/libc++/lib/libc++_shared.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\Paul\\MagicLeap\\privatekey\\nuccertificate.cert"
+    },
+    "taildata": {
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "7e13c58cbc4f4520172b6fb3380ed96930458971",
+   "xfrm_path": "C:/Users/Paul/Documents/Hackathon/zensorleap/ZensorLeapUnityProject/.out/.cache/release_lumin_clang-3.8_aarch64/com.zensorleap.sensorconfig-8c92288133476a48\\libc++_shared.so-af1fe38bb87fd720",
+   "xfrm_size": 977590
+  },
+  {
+   "compression": 8,
+   "hash": "b7b4606d245de25dacfc15aaa95477a70deda11b",
+   "pkgpath": "manifest.xml",
+   "size": 566,
+   "src": "C:\\Users\\Paul\\Documents\\Hackathon\\zensorleap\\ZensorLeapUnityProject\\Temp\\StagingArea\\manifest.xml",
+   "xfrm_flags": {
+    "manifest": {
+     "cert_hash": "a2478810917dbcce824c2ff625551e36e332ec61",
+     "developer_id": "eef6af10-116e-4f7e-948a-88b0751f3f46"
+    }
+   },
+   "xfrm_hash": "da8fd15c2dd344ee466139cce875dae2598845fb",
+   "xfrm_path": "C:/Users/Paul/Documents/Hackathon/zensorleap/ZensorLeapUnityProject/.out/.cache/release_lumin_clang-3.8_aarch64/com.zensorleap.sensorconfig-8c92288133476a48\\manifest.xml-ac31ada6db17abc9",
+   "xfrm_size": 578
+  }
+ ],
+ "pkgflags": {
+  "signed": {
+   "cert": "C:\\Users\\Paul\\MagicLeap\\privatekey\\nuccertificate.cert"
+  },
+  "taildata": {
+   "devcert": "C:\\Users\\Paul\\MagicLeap\\privatekey\\nuccertificate.cert",
+   "sbox": "USER",
+   "version": 3
+  }
+ }
+}
