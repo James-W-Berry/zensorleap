@@ -1,0 +1,9 @@
+{
+    "name":"Test Radar 1",
+    "azimuthMin":-15,
+    "azimuthMax":15,
+    "elevationMin": -10,
+    "elevationMax": 10,
+    "rangeMin": 2,
+    "rangeMax": 70
+}
