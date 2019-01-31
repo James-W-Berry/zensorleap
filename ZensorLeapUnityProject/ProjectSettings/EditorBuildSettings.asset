@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/MagicLeap/Examples/Scenes/ImageTracking.unity
-    guid: c4cc7b27d61667f419c09727a517e1a8
+    path: Assets/Scenes/ImageTrackingScene.unity
+    guid: 0ec3e784e8d4af24dacb6b2670be6dbd
   m_configObjects: {}

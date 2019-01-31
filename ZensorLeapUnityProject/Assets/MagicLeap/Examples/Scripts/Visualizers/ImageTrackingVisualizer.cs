@@ -1,3 +1,4 @@
+
 // %BANNER_BEGIN%
 // ---------------------------------------------------------------------
 // %COPYRIGHT_BEGIN%
@@ -38,8 +39,8 @@ namespace MagicLeap
         private GameObject _axis;
         [SerializeField, Tooltip("Game Object showing the tracking cube")]
         private GameObject _trackingCube;
-        [SerializeField, Tooltip("Game Object showing the demo")]
-        private GameObject _demo;
+        //[SerializeField, Tooltip("Game Object showing the demo")]
+        //private GameObject _demo;
 
         private ImageTrackingExample.ViewMode _lastViewMode = ImageTrackingExample.ViewMode.All;
         #endregion
@@ -62,12 +63,12 @@ namespace MagicLeap
                 enabled = false;
                 return;
             }
-            if (null == _demo)
-            {
-                Debug.LogError("Error: ImageTrackingVisualizer._demo is not set, disabling script.");
-                enabled = false;
-                return;
-            }
+            //if (null == _demo)
+            //{
+            //    Debug.LogError("Error: ImageTrackingVisualizer._demo is not set, disabling script.");
+            //    enabled = false;
+            //    return;
+            //}
             if (null == _statusLabel)
             {
                 Debug.LogError("Error: ImageTrackingVisualizer._statusLabel is not set, disabling script.");
@@ -129,22 +130,22 @@ namespace MagicLeap
                 case ImageTrackingExample.ViewMode.All:
                     _axis.SetActive(_targetFound);
                     _trackingCube.SetActive(_targetFound);
-                    _demo.SetActive(_targetFound);
+                    //_demo.SetActive(_targetFound);
                     break;
                 case ImageTrackingExample.ViewMode.AxisOnly:
                     _axis.SetActive(_targetFound);
                     _trackingCube.SetActive(false);
-                    _demo.SetActive(false);
+                   // _demo.SetActive(false);
                     break;
                 case ImageTrackingExample.ViewMode.TrackingCubeOnly:
                     _axis.SetActive(false);
                     _trackingCube.SetActive(_targetFound);
-                    _demo.SetActive(false);
+                    //_demo.SetActive(false);
                     break;
                 case ImageTrackingExample.ViewMode.DemoOnly:
                     _axis.SetActive(false);
                     _trackingCube.SetActive(false);
-                    _demo.SetActive(_targetFound);
+                    //_demo.SetActive(_targetFound);
                     break;
             }
         }
