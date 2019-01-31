@@ -2,23 +2,23 @@
  "entries": [
   {
    "compression": 8,
-   "hash": "98fb78e9a31a670d1c1218b5f36a21a5a64bf982",
+   "hash": "a5f9507b7d0953eca062ff22412f04bdb14ac986",
    "pkgpath": "Data/095890d8c9bde1a45b549a17e6e6f961",
    "size": 5036,
    "src": "C:/Users/Paul/Documents/Hackathon/zensorleap/ZensorLeapUnityProject/Temp/StagingArea/Data/095890d8c9bde1a45b549a17e6e6f961"
   },
   {
    "compression": 8,
-   "hash": "6149af40502f9537f0eb61eaa2a9c5a999c8a533",
+   "hash": "de1e0d05e0140123e2166dd9c62ca23853758478",
    "pkgpath": "Data/Managed/Metadata/global-metadata.dat",
-   "size": 3004852,
+   "size": 3008952,
    "src": "C:/Users/Paul/Documents/Hackathon/zensorleap/ZensorLeapUnityProject/Temp/StagingArea/Data/Managed/Metadata/global-metadata.dat"
   },
   {
    "compression": 8,
-   "hash": "c4f20ba364d4457ae9ee6fd2f191460c36da7fdd",
+   "hash": "65daa39ae41ceebf544ae50f152569b291647dc1",
    "pkgpath": "bin/libil2cpp.so",
-   "size": 37177184,
+   "size": 37230024,
    "src": "C:/Users/Paul/Documents/Hackathon/zensorleap/ZensorLeapUnityProject/Temp/StagingArea/Data/Native/libil2cpp.so",
    "xfrm_flags": {
     "signed": {
@@ -29,9 +29,9 @@
      "version": 3
     }
    },
-   "xfrm_hash": "816bca2f1a939544199626fe2ecdf33ce34e4ba7",
+   "xfrm_hash": "f65dc87aa577d286156dad72df8fb947597194bb",
    "xfrm_path": "C:/Users/Paul/Documents/Hackathon/zensorleap/ZensorLeapUnityProject/.out/.cache/release_lumin_clang-3.8_aarch64/com.zensorleap.sensorconfig-8c92288133476a48\\libil2cpp.so-cb16da8517d6e406",
-   "xfrm_size": 37177942
+   "xfrm_size": 37230782
   },
   {
    "compression": 8,
@@ -167,23 +167,23 @@
   },
   {
    "compression": 8,
-   "hash": "bb52a508b6f108127b70a6b7bb760006699dbcfc",
+   "hash": "ed443d0c726344e2a244066a8e2abed5ccb381a3",
    "pkgpath": "Data/globalgamemanagers",
-   "size": 35484,
+   "size": 35644,
    "src": "C:/Users/Paul/Documents/Hackathon/zensorleap/ZensorLeapUnityProject/Temp/StagingArea/Data/globalgamemanagers"
   },
   {
    "compression": 8,
-   "hash": "cea83d1c664878806b9e8d4a1409da08a3866220",
+   "hash": "bc78d741e19782efe57c82f1ab3461f895472f7d",
    "pkgpath": "Data/globalgamemanagers.assets",
-   "size": 36168,
+   "size": 36856,
    "src": "C:/Users/Paul/Documents/Hackathon/zensorleap/ZensorLeapUnityProject/Temp/StagingArea/Data/globalgamemanagers.assets"
   },
   {
    "compression": 8,
-   "hash": "75725b54b95befbb2bfcd6ec150b60e12769f91c",
+   "hash": "1a772bd92871748e8baf7f3fd57d8deb4e047364",
    "pkgpath": "Data/level0",
-   "size": 26388,
+   "size": 19360,
    "src": "C:/Users/Paul/Documents/Hackathon/zensorleap/ZensorLeapUnityProject/Temp/StagingArea/Data/level0"
   },
   {
@@ -195,16 +195,16 @@
   },
   {
    "compression": 8,
-   "hash": "9348329298538ff8280b67a531614e18a047657a",
+   "hash": "63d32f092c08d9dea7a81c4ebd68b46acb553d45",
    "pkgpath": "Data/sharedassets0.assets",
-   "size": 6255908,
+   "size": 3251778,
    "src": "C:/Users/Paul/Documents/Hackathon/zensorleap/ZensorLeapUnityProject/Temp/StagingArea/Data/sharedassets0.assets"
   },
   {
    "compression": 8,
-   "hash": "65a49da18555136b9b8126cbab7c60b006abe468",
+   "hash": "3019e3928ad13e2dd0d09dfd83ad1d1d2c6c3cde",
    "pkgpath": "Data/sharedassets0.assets.resS",
-   "size": 17938688,
+   "size": 7864320,
    "src": "C:/Users/Paul/Documents/Hackathon/zensorleap/ZensorLeapUnityProject/Temp/StagingArea/Data/sharedassets0.assets.resS"
   },
   {
@@ -247,9 +247,9 @@
   },
   {
    "compression": 8,
-   "hash": "b7b4606d245de25dacfc15aaa95477a70deda11b",
+   "hash": "d1521d7c695e57f19f768dc4a5cc283e3ede6d01",
    "pkgpath": "manifest.xml",
-   "size": 566,
+   "size": 1831,
    "src": "C:\\Users\\Paul\\Documents\\Hackathon\\zensorleap\\ZensorLeapUnityProject\\Temp\\StagingArea\\manifest.xml",
    "xfrm_flags": {
     "manifest": {
@@ -257,9 +257,9 @@
      "developer_id": "eef6af10-116e-4f7e-948a-88b0751f3f46"
     }
    },
-   "xfrm_hash": "da8fd15c2dd344ee466139cce875dae2598845fb",
+   "xfrm_hash": "d881475d394e1d0da023c70f9873b97c335597e6",
    "xfrm_path": "C:/Users/Paul/Documents/Hackathon/zensorleap/ZensorLeapUnityProject/.out/.cache/release_lumin_clang-3.8_aarch64/com.zensorleap.sensorconfig-8c92288133476a48\\manifest.xml-ac31ada6db17abc9",
-   "xfrm_size": 578
+   "xfrm_size": 1843
   }
  ],
  "pkgflags": {
