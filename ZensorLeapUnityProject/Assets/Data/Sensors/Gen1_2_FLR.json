@@ -1,0 +1,12 @@
+{
+"Gen1_2_FLR" : {
+    "type": "radar", //sensor type 
+    "name": "Gen1.2 FLR", //sensor name 
+    "rangeMin": 0.2, //meters
+    "rangeMax"     :  80.0, //meters
+    "azimuthMin"    : -30.0,    //degrees
+    "azimunthMax"    :  30.0,  //degrees
+    "elevationMin"   : -15.0,  //degrees
+    "elevationMax"      :  15.0  //degrees
+}
+}

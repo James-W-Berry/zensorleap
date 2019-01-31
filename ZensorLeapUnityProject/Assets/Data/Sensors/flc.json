@@ -1,0 +1,12 @@
+{
+    "flc" : {
+        "type": "camera", //sensor type 
+        "name": "FLC2 Omnivision OV", //sensor name 
+        "rangeMin": 0.00, //meters
+        "rangeMax"     :  150.0, //meters
+        "azimuthMin"    : -50.0,    //degrees
+        "azimunthMax"    :  50.0,  //degrees
+        "elevationMin"   : -20.0,  //degrees
+        "elevationMax"      :  20.0  //degrees
+    }
+    }

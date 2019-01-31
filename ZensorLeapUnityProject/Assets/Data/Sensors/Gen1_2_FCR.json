@@ -1,0 +1,12 @@
+{
+"Gen1_2_FCR" : {
+    "type": "radar", //sensor type 
+    "name": "Gen1.2 FCR", //sensor name 
+    "rangeMin": 0.2, //meters
+    "rangeMax"     :  40.0, //meters
+    "azimuthMin"    : -60.0,    //degrees
+    "azimunthMax"    :  60.0,  //degrees
+    "elevationMin"   : -70.0,  //degrees
+    "elevationMax"      :  70.0  //degrees
+}
+}

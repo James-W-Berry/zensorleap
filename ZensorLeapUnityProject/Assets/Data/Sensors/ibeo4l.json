@@ -1,0 +1,12 @@
+{
+    "ibeo4l" : {
+        "type": "lidar", //sensor type 
+        "name": "ibeo 4L", //sensor name 
+        "rangeMin": 0.15, //meters
+        "rangeMax"     :  50.0, //meters
+        "azimuthMin"    : -55.0,    //degrees
+        "azimunthMax"    :  55.0,  //degrees
+        "elevationMin"   : -3.2,  //degrees
+        "elevationMax"      :  3.2  //degrees
+    }
+    }
