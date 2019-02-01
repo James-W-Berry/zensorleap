@@ -230,7 +230,7 @@ PlayerSettings:
   iOSURLSchemes: []
   iOSBackgroundModes: 0
   iOSMetalForceHardShadows: 0
-  metalEditorSupport: 1
+  metalEditorSupport: 0
   metalAPIValidation: 1
   iOSRenderExtraFrameOnPause: 0
   appleDeveloperTeamID: 
@@ -665,7 +665,7 @@ PlayerSettings:
     m_ModelFolderPath: 
     m_PortalFolderPath: 
   luminCert:
-    m_CertPath: /Users/jamber/Desktop/james-ml-certificate/james-ml-certificate.cert
+    m_CertPath: /Users/paul/MagicLeap/Certificates/mycertificate.cert
     m_PrivateKeyPath: 
   luminIsChannelApp: 0
   luminVersion:

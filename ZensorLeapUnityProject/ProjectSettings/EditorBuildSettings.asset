@@ -5,10 +5,7 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/ImageTrackingScene.unity
     guid: 0ec3e784e8d4af24dacb6b2670be6dbd
-  - enabled: 1
-    path: Assets/MagicLeap/Examples/ZensorLeapExamples/Measure/Scenes/Measure.unity
-    guid: 9a795e83ce7a2974d9ab5a1158a0364d
   m_configObjects: {}

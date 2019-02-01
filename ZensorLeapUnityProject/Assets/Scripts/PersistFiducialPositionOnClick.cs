@@ -8,6 +8,9 @@ public class PersistFiducialPositionOnClick : MonoBehaviour {
     public GameObject _FiducialCube;
     public GameObject _PersistedOrigin;
 
+    public delegate void ObjectPlaced();
+    public static event ObjectPlaced OnObjectPlaced;
+
     void Awake()
     {
         MLInput.Start();
@@ -18,6 +21,9 @@ public class PersistFiducialPositionOnClick : MonoBehaviour {
     {
         _PersistedOrigin.transform.position = _FiducialCube.transform.position;
         _PersistedOrigin.transform.rotation = _FiducialCube.transform.rotation;
+
+        if (OnObjectPlaced != null)
+            OnObjectPlaced();
 
     }
 }
