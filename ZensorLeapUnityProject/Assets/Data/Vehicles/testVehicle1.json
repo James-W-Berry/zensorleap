@@ -4,12 +4,32 @@
         {
             "name": "Test Radar 2",
             "mountPoint": [3.0, 0.0, 0.5],
-            "orientation": [0.0, 0.0, 0.0, 1.0]
+            "orientation": [45.0, 10.0, 1.0]
         },
         {
             "name": "Test Radar 2",
             "mountPoint": [3.0, 0.0, 0.5],
-            "orientation": [0.0, 0.0, 0.0, 1.0]
+            "orientation": [-1.0, 0.0, 0.0]
+        },
+        {
+            "name": "Test Radar 2",
+            "mountPoint": [3.0, 0.0, 0.5],
+            "orientation": [0.0, 1.0, 0.0]
+        },
+        {
+            "name": "Test Radar 2",
+            "mountPoint": [3.0, 0.0, 0.5],
+            "orientation": [0.0, -1.0, 0.0]
+        },
+        {
+            "name": "Test Radar 2",
+            "mountPoint": [3.0, 0.0, 0.5],
+            "orientation": [0.0, 0.0, 1.0]
+        },
+        {
+            "name": "Test Radar 2",
+            "mountPoint": [3.0, 0.0, 0.5],
+            "orientation": [0.0, 0.0, -1.0]
         }
     ]
 }

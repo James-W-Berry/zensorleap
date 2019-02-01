@@ -8,7 +8,10 @@ public class MountedSensor {
 	public double[] orientation;
 
 	public Quaternion getOrientationAsQuaterian() {
-		return new Quaternion((float)orientation[0], (float)orientation[1], (float)orientation[2], (float)orientation[3]);
+		Quaternion roll = Quaternion.Euler(new Vector3((float)orientation[2], 0f, 0f));
+		Quaternion pitch = Quaternion.Euler(new Vector3(0f, -(float)orientation[1], 0f));
+		Quaternion yaw = Quaternion.Euler(new Vector3(0f, 0f, -(float)orientation[0]));
+		return roll * pitch * yaw;
 	}
 
 	public Vector3 getMountPointAsVector3() {
