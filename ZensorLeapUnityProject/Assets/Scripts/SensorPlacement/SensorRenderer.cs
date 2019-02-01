@@ -26,8 +26,8 @@ public class SensorRenderer : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-        Debug.Log(_tempSensor.transform.localPosition);
-        Debug.Log(_tempSensor.transform.position);
+        //Debug.Log(_tempSensor.transform.localPosition);
+        //Debug.Log(_tempSensor.transform.position);
 
     }
 }
