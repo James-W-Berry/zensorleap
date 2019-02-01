@@ -3,7 +3,7 @@
 [System.Serializable]
 public class MountedSensor {
 
-	public string type;
+	public string name;
 	public double[] mountPoint;
 	public double[] orientation;
 

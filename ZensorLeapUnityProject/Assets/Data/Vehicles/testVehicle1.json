@@ -2,12 +2,12 @@
     "name": "taz",
     "sensors": [
         {
-            "type": "testradar1.json",
+            "name": "Test Radar 2",
             "mountPoint": [3.0, 0.0, 0.5],
             "orientation": [0.0, 0.0, 0.0, 1.0]
         },
         {
-            "type": "testradar1.json",
+            "name": "Test Radar 2",
             "mountPoint": [3.0, 0.0, 0.5],
             "orientation": [0.0, 0.0, 0.0, 1.0]
         }

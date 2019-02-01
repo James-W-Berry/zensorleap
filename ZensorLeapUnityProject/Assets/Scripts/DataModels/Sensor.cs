@@ -1,6 +1,7 @@
 ﻿[System.Serializable]
 public class Sensor {
 
+	public string type;
 	public string name;
 	public double azimuthMin;
 	public double asimuthMax;

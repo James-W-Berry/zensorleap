@@ -1,4 +1,5 @@
 {
+    "type":"radar",
     "name":"Test Radar 2",
     "azimuthMin":-15, 
     "azimuthMax":15, 

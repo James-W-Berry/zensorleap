@@ -2,135 +2,135 @@
    "name": "xc90",
    "sensors": [
        {
-            "type": "Gen1_2_FLR.json",
+            "name": "Gen1.2 FCR",
             "mountPoint": [3.764, 0, 0.337],
             "orientation": [0, 0, 0]
        },
        {
-            "type": "Gen1_2_FCR.json",
+            "name": "Gen1.2 FCR",
             "mountPoint": [-0.884, 0.787, 0],
             "orientation": [140, 0, 0]
        },
         {
-             "type": "Gen1_2_FCR.json",
+             "name": "Gen1.2 FCR",
              "mountPoint": [-0.884, -0.787, 0],
              "orientation": [220, 0, 0]
         },
         
        {
-             "type": "Gen1_2_FCR.json",
+             "name": "Gen1.2 FCR",
              "mountPoint": [3.320, -0.838, 0],
              "orientation": [-40, 0, 0]
        },
 
        {
-             "type": "Gen1_2_FCR.json",
+             "name": "Gen1.2 FCR",
              "mountPoint": [3.320, 0.838, 0],
              "orientation": [40, 0, 0]
        },
     
        {
-             "type": "vl32.json",
+             "name": "Velodyne VLP-32C",
              "mountPoint": [3.320, 0, 1.850],
              "orientation": [0, -3, 0]
        },
 
     
        {
-             "type": "ibeo4l.json",
+             "name": "ibeo 4L",
              "mountPoint": [3.716, -0.203, 0.337],
              "orientation": [0, 0, 0]
         },
   
         {
-             "type": "US65.json",
+             "name": "Bosch US6.5",
              "mountPoint": [3.164, 0.884, 0.080],
              "orientation": [-90, 0, 0]
        },
        {
-             "type": "US65.json",
+             "name": "Bosch US6.5",
              "mountPoint": [3.320, 0.750, 0.040],
              "orientation": [-75, 0, 0]
        },
         {
-             "type": "US65.json",
+             "name": "Bosch US6.5",
              "mountPoint": [3.744, 0.240, 0.010],
              "orientation": [-10, 0, 0]
         },
         
        {
-             "type": "US65.json",
+             "name": "Bosch US6.5",
              "mountPoint": [3.744, -0.240, -0.010],
              "orientation": [10, 0, 0]
        },
 
        {
-             "type": "US65.json",
+             "name": "Bosch US6.5",
              "mountPoint": [3.320, -0.750, -0.040],
              "orientation": [75, 0, 0]
        },
     
        {
-             "type": "US65.json",
+             "name": "Bosch US6.5",
              "mountPoint": [3.164, -0.850, -0.080],
              "orientation": [90, 0, 0]
        },
 
     
        {
-             "type": "US65.json",
+             "name": "Bosch US6.5",
              "mountPoint": [1.837, 0.884, 0.090],
              "orientation": [-90, 0, 0]
         },
   
         {
-             "type": "US65.json",
+             "name": "Bosch US6.5",
              "mountPoint": [1.843, -0.850, -0.900],
              "orientation": [90, 0, 0]
        },
        {
-             "type": "US65.json",
+             "name": "Bosch US6.5",
              "mountPoint": [-0.914, 0.736, -0.150],
              "orientation": [-170, 0, 0]
        },
        {
-             "type": "US65.json",
+             "name": "Bosch US6.5",
              "mountPoint": [0.990, -0.254, -0.175],
              "orientation": [-175, 0, 0]
        },
         {
-             "type": "US65.json",
+             "name": "Bosch US6.5",
              "mountPoint": [-0.991, 0.254, 0.100],
              "orientation": [175, 0, 0]
         },
         
        {
-             "type": "US65.json",
+             "name": "Bosch US6.5",
              "mountPoint": [0.991, 0.736, -0.150],
              "orientation": [170, 0, 0]
        },
 
        {
-             "type": "US65.json",
+             "name": "Bosch US6.5",
              "mountPoint": [-0.811, 0.884, 0.110],
              "orientation": [-90, 0, 0]
        },
     
        {
-             "type": "US65.json",
+             "name": "Bosch US6.5",
              "mountPoint": [0.383, 0.884, 0.090],
              "orientation": [-90, 0, 0]
        },
 
     
        {
-             "type": "US65.json",
+             "name": "Bosch US6.5",
              "mountPoint": [-0.773, -0.850, -0.110],
              "orientation": [90, 0, 0]
         },
   
         {
-             "type": "US65.json",
+             "name": "Bosch US6.5",
              "mountPoint": [0.547, -0.850, -0.900],
              "orientation": [90, 0, 0]
        }
