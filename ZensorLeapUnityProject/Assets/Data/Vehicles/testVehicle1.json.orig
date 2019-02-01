@@ -1,0 +1,23 @@
+{
+    "name": "taz",
+    "sensors": [
+        {
+<<<<<<< HEAD
+            "name": "Test Radar 2",
+=======
+            "type": "Test Radar 1",
+>>>>>>> Sensor placement and offset
+            "mountPoint": [3.0, 0.0, 0.5],
+            "orientation": [0.0, 0.0, 0.0, 1.0]
+        },
+        {
+<<<<<<< HEAD
+            "name": "Test Radar 2",
+=======
+            "type": "Test Radar 2",
+>>>>>>> Sensor placement and offset
+            "mountPoint": [3.0, 0.0, 0.5],
+            "orientation": [0.0, 0.0, 0.0, 1.0]
+        }
+    ]
+}

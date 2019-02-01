@@ -8,7 +8,12 @@ public class SensorManager : MonoBehaviour {
 	public Dictionary<string, VehicleSensors> vehicles;
 	public Dictionary<string, Sensor> sensors;
 
-	void Start () {
+    private void Start()
+    {
+        //DoWork();
+    }
+
+    public void DoWork () {
 		jsonIO = new JsonIO();
 
 		sensors = new Dictionary<string, Sensor>();
