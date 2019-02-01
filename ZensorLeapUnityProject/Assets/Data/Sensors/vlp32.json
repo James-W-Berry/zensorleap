@@ -1,12 +1,11 @@
 {
-    "vlp32" : {
-        "type": "lidar", //sensor type 
-        "name": "Velodyne VLP-32C", //sensor name 
-        "rangeMin": 0.05, //meters
-        "rangeMax"     :  200.0, //meters
-        "azimuthMin"    : -180.0,    //degrees
-        "azimunthMax"    :  180.0,  //degrees
-        "elevationMin"   : -20.0,  //degrees
-        "elevationMax"      :  20.0  //degrees
-    }
+        "type": "lidar", 
+        "name": "Velodyne VLP-32C", 
+        "rangeMin": 0.05,
+        "rangeMax"     :  200.0, 
+        "azimuthMin"    : -180.0,    
+        "azimunthMax"    :  180.0,  
+        "elevationMin"   : -20.0,  
+        "elevationMax"      :  20.0  
+    
     }

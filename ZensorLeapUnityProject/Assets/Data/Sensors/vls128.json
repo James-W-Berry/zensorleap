@@ -1,12 +1,11 @@
 {
-    "vls128" : {
-        "type": "lidar", //sensor type 
-        "name": "Velodyne VLS-128", //sensor name 
-        "rangeMin": 0.00, //meters
-        "rangeMax"     :  300.0, //meters
-        "azimuthMin"    : -180.0,    //degrees
-        "azimunthMax"    :  180.0,  //degrees
-        "elevationMin"   : -20.0,  //degrees
-        "elevationMax"      :  20.0  //degrees
+        "type": "lidar", 
+        "name": "Velodyne VLS-128", 
+        "rangeMin": 0.00, 
+        "rangeMax"     :  300.0, 
+        "azimuthMin"    : -180.0,    
+        "azimunthMax"    :  180.0,  
+        "elevationMin"   : -20.0,  
+        "elevationMax"      :  20.0  
     }
-    }
+    

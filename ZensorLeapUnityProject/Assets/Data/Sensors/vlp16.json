@@ -1,12 +1,11 @@
 {
-    "vlp16" : {
-        "type": "lidar", //sensor type 
-        "name": "Velodyne VLP-16", //sensor name 
-        "rangeMin": 0.10, //meters
-        "rangeMax"     :  100.0, //meters
-        "azimuthMin"    : -180.0,    //degrees
-        "azimunthMax"    :  180.0,  //degrees
-        "elevationMin"   : -15.0,  //degrees
-        "elevationMax"      :  15.0  //degrees
+        "type": "lidar", 
+        "name": "Velodyne VLP-16", 
+        "rangeMin": 0.10,
+        "rangeMax"     :  100.0, 
+        "azimuthMin"    : -180.0,   
+        "azimunthMax"    :  180.0, 
+        "elevationMin"   : -15.0, 
+        "elevationMax"      :  15.0 
     }
-    }
+    

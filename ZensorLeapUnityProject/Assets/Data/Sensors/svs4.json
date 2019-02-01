@@ -1,12 +1,10 @@
-{
-    "svs4" : {
-        "type": "camera", //sensor type 
-        "name": "SVS4 Camera", //sensor name 
-        "rangeMin": 0.00, //meters
-        "rangeMax"     :  150.0, //meters
-        "azimuthMin"    : -45.0,    //degrees
-        "azimunthMax"    :  45.0,  //degrees
-        "elevationMin"   : -20.0,  //degrees
-        "elevationMax"      :  20.0  //degrees
-    }
+ {
+        "type": "camera", 
+        "name": "SVS4 Camera", 
+        "rangeMin": 0.00, 
+        "rangeMax"     :  150.0, 
+        "azimuthMin"    : -45.0,    
+        "azimunthMax"    :  45.0,  
+        "elevationMin"   : -20.0,  
+        "elevationMax"      :  20.0  
     }

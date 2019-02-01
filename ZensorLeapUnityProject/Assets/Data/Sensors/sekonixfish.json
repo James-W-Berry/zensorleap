@@ -1,12 +1,11 @@
 {
-    "sekonixfish" : {
-        "type": "camera", //sensor type 
-        "name": "Sekonix Fisheye SF3321", //sensor name 
-        "rangeMin": 0.00, //meters
-        "rangeMax"     :  20.0, //meters
-        "azimuthMin"    : -95.0,    //degrees
-        "azimunthMax"    :  95.0,  //degrees
-        "elevationMin"   : -70.0,  //degrees
-        "elevationMax"      :  70.0  //degrees
-    }
+        "type": "camera", 
+        "name": "Sekonix Fisheye SF3321", 
+        "rangeMin": 0.00, 
+        "rangeMax"     :  20.0, 
+        "azimuthMin"    : -95.0,   
+        "azimunthMax"    :  95.0, 
+        "elevationMin"   : -70.0, 
+        "elevationMax"      :  70.0 
+    
     }

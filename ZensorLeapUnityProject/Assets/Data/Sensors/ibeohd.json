@@ -1,12 +1,10 @@
 {
-"ibeohd" : {
-    "type": "lidar", //sensor type 
-    "name": "ibeo HD", //sensor name 
-    "rangeMin": 0.15, //meters
-    "rangeMax"     :  30.0, //meters
-    "azimuthMin"    : -55.0,    //degrees
-    "azimunthMax"    :  55.0,  //degrees
-    "elevationMin"   : -3.2,  //degrees
-    "elevationMax"      :  3.2  //degrees
-}
+    "type": "lidar", 
+    "name": "ibeo HD", 
+    "rangeMin": 0.15, 
+    "rangeMax"     :  30.0, 
+    "azimuthMin"    : -55.0,    
+    "azimunthMax"    :  55.0,  
+    "elevationMin"   : -3.2,  
+    "elevationMax"      :  3.2  
 }
